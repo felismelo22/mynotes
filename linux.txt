@@ -1,0 +1,3 @@
+# how to change uuid in linux
+	-change file /etc/fstab
+	-make sure that your uuid before same with current uuid
